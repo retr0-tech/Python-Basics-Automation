@@ -1,6 +1,9 @@
 # Python-Basics-Automation
 This repository is geared towards sharing my knowledge of Python. For most of the content I'll be using the book "Automate the Boring Stuff with Python" by Al Sweigart (You can find the contents here: https://automatetheboringstuff.com/). My goal for this repository is to help others learn Python basics and answer questions they might have. Keep in mind, I am a beginner. Make no mistake about it, I have very little Python experience (at the time of creation). This repository serves as a collection of notes and experiences that I'm documenting on my journey towards become more familiar with Python. My hope is that you are able to take away simply the very basics of python and basic automation. Thanks for visiting the repo. Enjoy!
 
+# Additional Notes
+I will be using Microsoft Virtual Studio Code to create these notes. I'm also a beginner when it comes to working with VSCode and Git so you'll see a lot of Git related notes here too. If you plan on using VSCode and Git then you'll be pleased to know I'll be adding notes to the repo on the basics of using VSCode and Git. 
+
 # The Outline
 The chapters listed below are that directly from the book. However, I will be spending more time on some topics than others in order to:
 1) Amplify the basics for both my understanding and introductory users
@@ -32,3 +35,5 @@ The chapters listed below are that directly from the book. However, I will be sp
     Appendix A – Installing Third-Party Modules <br />
     Appendix B – Running Programs <br />
     Appendix C – Answers to the Practice Questions <br />
+
+Have fun!
