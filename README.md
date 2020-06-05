@@ -8,27 +8,27 @@ The chapters listed below are that directly from the book. However, I will be sp
 3) Give my own personal spin on topics
 4) Form my own notes in a way that makes sense to me based off what I learned
 
-    Chapter 0 – Introduction
-    Chapter 1 – Python Basics
-    Chapter 2 – Flow Control
-    Chapter 3 – Functions
-    Chapter 4 – Lists
-    Chapter 5 – Dictionaries and Structuring Data
-    Chapter 6 – Manipulating Strings
-    Chapter 7 – Pattern Matching with Regular Expressions
-    Chapter 8 – Input Validation
-    Chapter 9 – Reading and Writing Files
-    Chapter 10 – Organizing Files
-    Chapter 11 – Debugging
-    Chapter 12 – Web Scraping
-    Chapter 13 – Working with Excel Spreadsheets
-    Chapter 14 – Working with Google Spreadsheets
-    Chapter 15 – Working with PDF and Word Documents
-    Chapter 16 – Working with CSV Files and JSON Data
-    Chapter 17 – Keeping Time, Scheduling Tasks, and Launching Programs
-    Chapter 18 – Sending Email and Text Messages
-    Chapter 19 – Manipulating Images
-    Chapter 20 – Controlling the Keyboard and Mouse with GUI Automation
-    Appendix A – Installing Third-Party Modules
-    Appendix B – Running Programs
-    Appendix C – Answers to the Practice Questions
+    Chapter 0 – Introduction__
+    Chapter 1 – Python Basics__
+    Chapter 2 – Flow Control__
+    Chapter 3 – Functions__
+    Chapter 4 – Lists__
+    Chapter 5 – Dictionaries and Structuring Data__
+    Chapter 6 – Manipulating Strings__
+    Chapter 7 – Pattern Matching with Regular Expressions__
+    Chapter 8 – Input Validation__
+    Chapter 9 – Reading and Writing Files__
+    Chapter 10 – Organizing Files__
+    Chapter 11 – Debugging__
+    Chapter 12 – Web Scraping__
+    Chapter 13 – Working with Excel Spreadsheets__
+    Chapter 14 – Working with Google Spreadsheets__
+    Chapter 15 – Working with PDF and Word Documents__
+    Chapter 16 – Working with CSV Files and JSON Data__
+    Chapter 17 – Keeping Time, Scheduling Tasks, and Launching Programs__
+    Chapter 18 – Sending Email and Text Messages__
+    Chapter 19 – Manipulating Images__
+    Chapter 20 – Controlling the Keyboard and Mouse with GUI Automation__
+    Appendix A – Installing Third-Party Modules__
+    Appendix B – Running Programs__
+    Appendix C – Answers to the Practice Questions__
