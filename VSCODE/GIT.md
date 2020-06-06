@@ -9,7 +9,7 @@ You can find the program here: https://gitforwindows.org/. Git for Windows provi
 
 So, we have our BASH, ideas, and IDE. How do we start working? <br /> 
 
-The first step to working on your project is generating an SSH key pair in order to remotely connect to your repository. <br /> 
+The first step to working on your project is generating an SSH key-pair in order to remotely connect to your repository. <br /> 
 
 # Where'd I put my keys again?
 Thankfully, GitHub has already provided a step by step process for Mac/Windows/Linux users located here: https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent.

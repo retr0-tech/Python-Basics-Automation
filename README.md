@@ -41,11 +41,6 @@ The chapters listed below are that directly from the book. However, I will be sp
     Appendix A – Installing Third-Party Modules <br />
     Appendix B – Running Programs <br />
     Appendix C – Answers to the Practice Questions <br />
-
-<<<<<<< HEAD
 # Contributors 
 
-Become a contributor! As I've stated, I'm new to Github and VSCode. If you'd like to collaborate and become a contributor to the repository you can contact me on Githb. 
-=======
-Have fun!
->>>>>>> 028c2d58ae3cde1bc98be11c5e5453f72088f862
+Become a contributor! As I've stated, I'm new to Github and VSCode. If you'd like to collaborate and become a contributor to the repository you can contact me on Githb. <br />
