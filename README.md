@@ -4,14 +4,14 @@ This repository is geared towards sharing my knowledge of Python. For most of th
 Additionally, I'll be covering what software I'll be using to edit the Python coding projects and how to set up your IDE. There's a plethora of information out there that will show how to set up the tools I'll be using, I'm going to document what has worked for me. If you have an easier way or a more efficient opnionin, feel free to notify me! I'm very open to learning and using new tools to expand my knowledge. <br />
 
 # IDE
-I will be using Microsoft Virtual Studio Code and GitBash. I'm also a beginner when it comes to working with VSCode and Git/GitBash so you'll see a lot of Git related notes here too. If you plan on using VSCode and Git then you'll be pleased to know I'll be adding notes to the repo on the basics of using VSCode and Git. 
+I will be using Microsoft Virtual Studio Code and GitBash. I'm also a beginner when it comes to working with VSCode and Git/GitBash so you'll see a lot of Git related notes here too. If you plan on using VSCode and Git then you'll be pleased to know I'll be adding notes to the repo on the basics of using VSCode and Git. <br />
 
 # The Outline
-The chapters listed below are that directly from the book. However, I will be spending more time on some topics than others in order to:
-1) Amplify the basics for both my understanding and introductory users
-2) Make sure I do not plagiarize 
-3) Give my own personal spin on topics
-4) Form my own notes in a way that makes sense to me based off what I learned
+The chapters listed below are that directly from the book. However, I will be spending more time on some topics than others in order to: <br />
+1) Amplify the basics for both my understanding and introductory users <br />
+2) Make sure I do not plagiarize <br />
+3) Give my own personal spin on topics <br />
+4) Form my own notes in a way that makes sense to me based off what I learned <br />
 
     Chapter 0 – Introduction <br />
     Chapter 1 – Python Basics <br />
@@ -37,6 +37,6 @@ The chapters listed below are that directly from the book. However, I will be sp
     Appendix A – Installing Third-Party Modules <br />
     Appendix B – Running Programs <br />
     Appendix C – Answers to the Practice Questions <br />
-# Contributors 
 
-Become a contributor! As I've stated, I'm new to Github and VSCode. If you'd like to collaborate and become a contributor to the repository you can contact me on Github. <br />
+# Contributors 
+Become a contributor! As I've stated, I'm new to GitHub and VSCode. If you'd like to collaborate and become a contributor to the repository you can contact me on GitHub. <br />

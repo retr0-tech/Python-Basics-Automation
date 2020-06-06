@@ -1,0 +1,13 @@
+Below is a list of resources I've used to put together this repository. 
+- https://www.python.org
+- https://gitforwindows.org/
+- https://www.toolsqa.com/git/install-git-on-windows/
+-  https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+- https://en.wikipedia.org/wiki/Source_code
+- https://help.github.com/en/github/getting-started-with-github/create-a-repo
+- https://github.com/new
+- https://git-scm.com/docs/gitignore
+- https://www.youtube.com/watch?v=RZ5vduluea4
+- https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
+- https://choosealicense.com/
+- http://trove42.com/introducing-pikachu-programming-language/
