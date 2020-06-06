@@ -39,4 +39,4 @@ The chapters listed below are that directly from the book. However, I will be sp
     Appendix C – Answers to the Practice Questions <br />
 # Contributors 
 
-Become a contributor! As I've stated, I'm new to Github and VSCode. If you'd like to collaborate and become a contributor to the repository you can contact me on Githb. <br />
+Become a contributor! As I've stated, I'm new to Github and VSCode. If you'd like to collaborate and become a contributor to the repository you can contact me on Github. <br />
